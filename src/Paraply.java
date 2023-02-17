@@ -51,6 +51,7 @@ public class Paraply {
 
         } else {
             System.out.println("Ogiltiga svar!");
+
         }
     }
 }
